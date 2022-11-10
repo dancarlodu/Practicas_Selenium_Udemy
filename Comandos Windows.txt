@@ -1,0 +1,160 @@
+Panel de control
+
+    * CONTROL : abre el panel de control
+    * CONTROL ADMINTOOLS : abre las herramientas administrativas
+    * CONTROL KEYBOARD : abre las propiedades del teclado
+    * CONTROL COLOR : abre las propiedades de pantalla
+    * CONTROL FOLDERS : abre las opciones de carpeta
+    * CONTROL FONTS : abre las fuentes
+    * CONTROL INTERNATIONAL o INTL.CPL : abre la configuración regional y de idioma
+    * CONTROL MOUSE o MAIN.CPL : abre las propiedades del mouse
+    * CONTROL USERPASSWORDS : abre las cuentas de usuario
+    * CONTROL USERPASSWORDS2 o NETPLWIZ : administración de usuarios y su acceso
+    * CONTROL /NAME MICROSOFT.BACKUPANDRESTORECENTER : abre el centro de respaldo y recuperación (Para Vista únicamente). Tutorial AQUÍ
+    * CONTROL PRINTERS : impresoras y faxes disponibles
+    * APPWIZ.CPL : abre agregar o quitar programas
+    * OPTIONALFEATURES : abre la herramienta agregar o quitar componentes Windows (únicamente para Vista)
+    * DESK.CPL : abre las propiedades de pantalla
+    * HDWWIZ.CPL : abre el asistente para agregar hardware
+    * INFOCARDCPL.CPL : abre el asistente de compatibilidad de programas
+    * IRPROPS.CPL : abre la utilidad de infrarojo
+    * ISCSICPL : abre la herramienta de configuración del iniciador ISCI Microsoft (únicamente para Vista)
+    * JOY.CPL : abre el dispositivo de juegos
+    * MMSYS.CPL : abre las propiedades de dispositivos de sonido y audio
+    * SYSDM.CPL : abre las propiedades del sistema
+    * TABLETPC.CPL : abre la configuración para Tablet pc (únicamente para Vista)
+    * TELEPHON.CPL : abre la herramienta de información de la ubicación
+    * TIMEDATE.CPL : abre las propiedades de fecha y hora
+    * WSCUI.CPL : abre el centro de seguridad de Windows
+    * ACCESS.CPL : abre las opciones de accesibilidad (únicamente para XP)
+    * WUAUCPL.CPL : abre el servicio de actualizaciones automáticas de Windows (únicamente para XP)
+    * POWERCFG.CPL : abre el administrador de opciones de energía
+    * COLLAB.CPL : abre la visualización instantánea (únicamente para Vista)
+    * AZMAN.MSC : abre el administrador de autorización (únicamente para Vista)
+    * CERTMGR.MSC : abre los certificados para el usuario actual
+    * COMPMGMT.MSC : abre la administración de equipos
+    * COMEXP.MSC o DCOMCNFG : abre los servicio de componentes (únicamente para Vista)
+    * DEVMGMT.MSC : abre el Administrador de dispositivos. Tutorial AQUI
+    * EVENTVWR o EVENTVWR.MSC : abre el Visor de sucesos
+    * FSMGMT.MSC : abre las carpetas compartidas
+    * NAPCLCFG.MSC : abre la herramienta de configuración del cliente NAP (únicamente para Vista)
+    * SERVICES.MSC : abre el administrador de Servicios
+    * TASKSCHD.MSC o CONTROL SCHEDTASKS : abre el planificador de tareas (únicamente para Vista)
+    * GPEDIT.MSC : abre el editor de directiva de grupo (para las ediciones profesionales y más de Windows)
+    * LUSRMGR.MSC : abre el editor de usuarios locales y grupos
+    * SECPOL.MSC : abre la configuración de seguridad local
+    * NTMSMGR.MSC : abre el administrador de medios de almacenamiento extraíbles
+    * NTMSOPRQ.MSC : abre las solicitudes del operador de medios de almacenamiento extraíbles
+    * RSOP.MSC : abre el conjunto resultante de directivas
+    * WMIMGMT.MSC : abre Windows Management Infrastructure
+    * TPM.MSC : abre la herramienta gestión de modulo de plataforma protegida en el equipo local (únicamente para Vista)
+    * PERFMON o PERFMON.MSC : abre el monitor de rendimiento de Windows.
+    * MMC : abre una nueva consola vacía
+    * MDSCHED : abre la herramienta de diagnostico de la memoria (únicamente para Vista)
+    * DXDIAG : abre la herramienta de diagnostico de DirectX
+    * ODBCAD32 : abre el administrador de orígenes de datos ODBC
+    * REGEDIT o REGEDT32 (únicamente para Vista) : abre el editor del registro
+    * DRWTSN32 : abre Dr. Watson (Pour XP uniquement)
+    * VERIFIER : abre el administrador del comprobador de controlador
+    * CLICONFG : abre la herramienta de configuración de cliente de red SQL
+    * UTILMAN : abre el administrador de utilidades *COMPUTERDEFAULTS : abre la herramienta de programas predeterminados (únicamente para Vista)
+    * CREDWIZ : abre la ventana para hacer copias de seguridad y restaurar contraseñas de usuarios (únicamente para Vista)
+    * LPKSETUP : abre el asistente de instalación y desinstalación de idiomas (únicamente para Vista)
+    * MOBSYNC : abre elementos para sincronizar
+    * REKEYWIZ : abre el administrador de certificados de cifrado de archivos (únicamente para Vista)
+    * SLUI : abre el asistente de activación de Windows (únicamente para Vista)
+    * MSCONFIG : abre la utilidad de configuración del sistema
+    * SYSEDIT : abre el editor de configuración del sistema (atención, manipular con prudencia)
+    * SYSKEY : abre la herramienta de protección de la base de datos de cuentas de Windows (atención, manipular con mucha prudencia!)
+
+
+Programas y herramientas de Windows
+
+    * EXPLORER : abre el explorador de Windows
+    * IEXPLORE : abre Internet Explorer
+    * WAB : abre la libreta de direcciones (únicamente para Vista)
+    * CHARMAP : abre la tabla de caracteres
+    * MSPAINT : abre Paint
+    * WRITE o Wordpad : abre Wordpad
+    * NOTEPAD : abre el bloc de notas
+    * SNIPPINGTOOL : abre la herramienta de captura de pantalla (únicamente para Vista). Tutorial AQUI
+    * CALC : abre la calculadora
+    * CLIPBRD : abre el portapapeles (para XP únicamente, para añadirlo a Vista ver AQUI)
+    * WINCHAT : abre el programa de Microsoft de chat en red (para Windows XP únicamente)
+    * SOUNDRECORDER : abre el altavoz
+    * DVDPLAY : ejecuta la unidad de DVD
+    * WMPLAYER : abre Windows Media Player
+    * MOVIEMK : abre Windows Movie Maker
+    * JOURNAL : abre un nuevo journal (únicamente para Vista)
+    * STIKYNOT : abre el recordatorio (únicamente para Vista)
+    * OSK : muestra el teclado en pantalla. Tutorial AQUI
+    * TABTIP : abre el panel de ingreso de datos Tablet PC (únicamente para Vista)
+    * MAGNIFY : abre la lupa
+    * WINCAL : abre el calendario de Windows (únicamente para Vista)
+    * DIALER : abre el marcador telefónico de Windows
+    * EUDCEDIT : abre el editor de caracteres privados
+    * SNDVOL : ajusta las propiedades del volumen
+    * RSTRUI : abre la herramienta de restauración del sistema (únicamente para Vista)
+    * %WINDIR%\SYSTEM32\RESTORE\RSTRUI.EXE : abre la herramienta de restauración del sistema (para XP únicamente). Tutorial AQUI
+    * MSINFO32 : abre la informacion del sistema
+    * MRT : abre la herramienta de eliminación de software malintencionado de Windows. Tutorial AQUI
+    * TASKMGR : abre el administrador de tareas de Windows
+    * CMD : abre la consola
+    * MIGWIZ : abre el asistente para transferencia de archivos y configuraciones (únicamente para Vista)
+    * MIGWIZ.EXE : abre el asistente para transferencia de archivos y configuraciones (para XP únicamente)
+    * SIDEBAR : abre la barra de Windows (únicamente para Vista)
+    * SIGVERIF : abre la herramienta de comprobación de la firma del archivo
+    * WINVER : abre la ventana Acerca de Windows para conocer la versión de Windows
+    * FSQUIRT : abre el asistente para la transferencia de archivos Bluetooth
+    * IEXPRESS : abre el asistente de archivos auto-extraíbles. Tutorial AQUI
+    * MBLCTR : abre l centro de movilidad de Windows (únicamente para Vista)
+    * MSRA : abre el asistente remoto de Windows
+    * MSTSC : abre la herramienta de conexión a escritorio remoto
+    * MSDT : abre la herramienta de diagnostico y soporte de Microsoft
+    * WERCON : abre la herramienta de reportes y soluciones a los problemas (únicamente para Vista)
+    * WINDOWSANYTIMEUPGRADE : permite la actualización de Windows Vista
+    * WINWORD: abre Word (si está instalado)
+    * PRINTBRMUI : abre el asistente de migración de impresora (para Vista únicamente)
+
+
+Administración de discos
+
+    * DISKMGMT.MSC : abre el administrador de discos
+    * CLEANMGR : abre la herramienta para liberar espacio en disco
+    * DFRG.MSC : abre el desfragmentador de disco
+    * DEFRAG: desfragmenta el disco duro (para saber como utilizarlo, haz clic AQUI
+    * CHKDSK : efectúa un análisis de la partición precisados en los parámetros del comando (para mayor información, escribe CHKDSK /? en la consola CMD)
+    * DISKPART : abre la herramienta para particionar (un poco difícil de usar)
+
+
+Administracion de red e Internet
+
+    * IPCONFIG : muestra la configuración de las direcciones IP en el ordenador (Para mayor información, escribe:
+    * IPCONFIG /? en la consola CMD)
+    * CONTROL NETCONNECTIONS o NCPA.CPL : muestra las conexiones de red
+    * INETCPL.CPL : abre las propiedades de Internet
+    * FIREWALL.CPL : abre el firewall de Windows
+    * WF.MSC : abre las funciones avanzadas del firewall de Windows (únicamente para Vista). Tutorial AQUI
+    * NETSETUP.CPL : abre el asistente para configuración de red (únicamente para XP)
+
+
+Otros comandos
+
+    * JAVAWS : muestra la caché del programa JAVA (si está instalado)
+    * AC3FILTER.CPL : abre las propiedades del filtro AC3 (si está instalado)
+    * FIREFOX : abre Mozilla FireFox (si está instalado)
+    * NETPROJ : permite la conexión a un proyector de red (únicamente para Vista)
+    * LOGOFF : cierra la sesión activa
+    * SHUTDOWN : apaga Windows
+    * SHUTDOWN –A : detiene el apagado de Windows
+    * %WINDIR% o %SYSTEMROOT% : abre la carpeta de instalación de Windows
+    * %PROGRAMFILES% : abre la carpeta de instalación de otros programas (Program Files)
+    * %USERPROFILE% : abre la carpeta del perfil del usuario conectado actualmente
+    * %HOMEDRIVE% : abre el explorador en la partición donde el sistema operativo está instalado
+    * Comprobador de archivos del sistema (necesita un CD de Windows si la caché no está disponible): (Tutorial AQUI)
+          o SFC /SCANNOW : hace un scan de todos los archivos del sistema y repara los archivos dañados
+          o SFC /VERIFYONLY : hace un scan únicamente de los archivos del sistema
+          o SFC /SCANFILE="nombre y ruta del archivo" : hace un scan del archivo indicado, y lo repara si está dañado
+          o SFC /VERIFYFILE="nombre y ruta del archivo" : hace un scan únicamente del archivo indicado
+          o SFC /SCANONCE : hace un scan de los archivos del sistema la próxima vez que se inicie el ordenador
+          o SFC /REVERT : restablece la configuración inicial (para mayor información, escribe SFC /? en la consola CMD
