@@ -1,0 +1,13 @@
+Página abierta: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+Escribiendo en el campo  --> Email el texto admin@yourstore.com
+Escribiendo en el campo  --> Password el texto admin
+Click en el campo --> //button[@type='submit'][contains(.,'Log in')] 
+Entrando al sistema
+Entrando el sistema uno
+Click en el campo --> //a[@href='#'][contains(.,'Customers')] 
+Click en el campo --> (//p[contains(.,'Customers')])[2] 
+Escribiendo en el campo  --> //input[contains(@id,'SearchFirstName')] el texto victoria
+Click en el campo --> //button[contains(@id,'search-customers')] 
+Click en el campo --> //a[@href='/Admin/Customer/Create'] 
+Click en el campo --> //input[contains(@id,'Gender_Male')] 
+Escribiendo en el campo  --> //input[@id='DateOfBirth'] el texto 10/12/2022

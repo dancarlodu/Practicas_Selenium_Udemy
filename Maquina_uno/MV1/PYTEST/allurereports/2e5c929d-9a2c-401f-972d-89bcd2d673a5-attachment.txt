@@ -1,0 +1,12 @@
+Página abierta: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Escribiendo en el campo  --> //input[@name='username'] el texto Admin
+Escribiendo en el campo  --> //input[@name='password'] el texto admin123
+Click en el campo --> //button[@type='submit'] 
+Entrando al sistema
+Entrando el sistema dos
+Click en el campo --> //span[contains(.,'Admin')] 
+Click en el campo --> (//span[contains(.,'User Management')])[2] 
+Click en el campo --> //a[@href='#'][contains(.,'Users')] 
+Escribiendo en el campo  --> (//input[@class='oxd-input oxd-input--active'])[2] el texto Fiona.Grace
+Salida del login dos
+Salida del login uno
